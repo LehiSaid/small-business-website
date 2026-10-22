@@ -460,17 +460,12 @@ button:focus-visible {
 
 @media (max-width: 600px) {
   .header {
-    padding: 18px 16px;
-  }
+  padding: 12px;
+}
 
-  .header .logo {
-    height: 56px;
-  }
-
-  .header h1 {
-    max-width: 340px;
-    font-size: 1.15rem;
-  }
+.header .logo {
+  max-height: none;
+}
 
   .hero {
     min-height: 560px;
