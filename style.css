@@ -118,6 +118,10 @@ button:focus-visible {
   color: #ffffff;
 
   background-color: var(--color-primary);
+   background-image: url("./banner-chaveiro.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
 }
 
 .hero video {
