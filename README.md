@@ -1,39 +1,75 @@
-🔑 small-business-website
-<br>
-<br>
-Small Business Website
+# 🔑 Chaveiro Zé da Colônia — Business Website
 
-A static website developed to practice page structure, styling, and responsiveness, simulating a real small business website.
+A responsive business website developed for **Chaveiro Zé da Colônia**, a locksmith business providing 24-hour services in Manaus, Brazil.
 
-🛠️ Built With
+The website was designed to establish an online presence, showcase locksmith services, and make it easier for customers to get in touch through WhatsApp.
 
-HTML5
+## 🌐 Live Demo
 
-CSS3
+**[Visit the Website](https://chaveiro-ze-da-colonia.netlify.app/)**
 
-📚 What I Learned
+## 🛠️ Technologies
 
-Structuring a real-world website
+* HTML5
+* CSS3
+* JavaScript
+* Google Fonts
+* Netlify
 
-Organizing content sections
+## ✨ Features
 
-Styling with CSS
+* Responsive layout for desktop and mobile devices.
+* Business information and service presentation.
+* Sections for residential, automotive, and commercial locksmith services.
+* WhatsApp contact integration.
+* Floating WhatsApp contact button.
+* Visual design focused on accessibility and usability.
 
-Responsive layout concepts
+## 📸 About the Project
 
-▶️ How to Run
+This project was developed to meet a real business need: creating a professional online presence for a local locksmith service.
 
-Clone the repository
+It combines responsive web design, clear service presentation, and direct customer communication.
 
+## ▶️ How to Run Locally
+
+Clone the repository:
+
+```bash
 git clone https://github.com/LehiSaid/small-business-website.git
+```
 
-Open the index.html file in your browser
+Navigate to the project folder:
 
-📌 Status
+```bash
+cd small-business-website
+```
 
-✔️ Completed – improvements planned
+Open `index.html` in your browser.
 
-👤 Author
+## 📚 What I Learned
 
-Developed by Lehi
-GitHub: https://github.com/LehiSaid
+* Building websites for real-world business needs.
+* Structuring pages with semantic HTML.
+* Creating responsive layouts with CSS.
+* Improving user experience and visual hierarchy.
+* Integrating WhatsApp contact functionality.
+* Deploying websites using Netlify.
+* Organizing and managing projects with Git and GitHub.
+
+## 📌 Project Status
+
+**Completed and deployed.**
+
+Future improvements may include additional visual refinements and performance optimizations.
+
+## 👨‍💻 Author
+
+**Lehi da Silva Said**
+
+* GitHub: [@LehiSaid](https://github.com/LehiSaid)
+* LinkedIn: [Lehi Said](https://linkedin.com/in/lehisaid)
+
+---
+
+*Developed as part of my web development portfolio, based on a real small business project.*
